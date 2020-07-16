@@ -1,0 +1,1 @@
+odin build src -out:odin-pong
